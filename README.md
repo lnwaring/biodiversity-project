@@ -1,4 +1,4 @@
-# Biodiversity in National Parks - README
+# Biodiversity in National Parks
 
 #### Summary
 
