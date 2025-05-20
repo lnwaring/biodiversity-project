@@ -6,7 +6,7 @@ This project explores species biodiversity across U.S. National Parks. The aim w
 
 #### Tools & Skills Used:
 - Python (Pandas, NumPy)
-- Data visualisation (Natplotlib, Seaborn)
+- Data visualisation (Matplotlib, Seaborn)
 - Statistical hypothesis testing
 - Exploratory data analysis (EDA)
 
